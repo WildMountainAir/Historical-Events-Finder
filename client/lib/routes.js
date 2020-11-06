@@ -1,4 +1,6 @@
 /*
+{"date": "-300", "description": "Pilgrims travel to the healing temples of Asclepieion to be cured of their ills. After a ritual purification the followers bring offerings or sacrifices.", "lang": "en", "category1": "By place", "category2": "Greece", "granularity": "year"}, 
+
 Routes
 Based on the previous db.json file, here are all the default routes. You can also add other routes using --routes.
 
