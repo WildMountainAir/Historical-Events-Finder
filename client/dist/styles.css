@@ -1,0 +1,18 @@
+/***********************************
+ ********** Custom Styles **********
+ ***********************************/
+ body {
+   background-color: #dbf6e9;
+   color: #31326f;
+   font-family: 'Space Grotesk', sans-serif;
+   font-weight: 400;
+ }
+ /***********************************
+ ********** colors **********
+ ***********************************/
+ .colors {
+   color: #31326f;
+   background-color: #dbf6e9;
+   border: #9ddfd3;
+   box-shadow: #ffdada;
+ }
